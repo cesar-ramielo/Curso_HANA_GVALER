@@ -1,0 +1,6 @@
+@EndUserText.label: 'Access Control - Full Access'
+@MappingRole: true
+define role Z01_AC_A23C226_GVALER {
+    grant select on z24_cds_a23c226_gvaler;   
+                        
+}

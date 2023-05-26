@@ -1,0 +1,11 @@
+@Metadata.layer: #LOCALIZATION
+annotate view z28_cds_a23c226_gvaler with
+{
+  @UI.dataPoint.description: 'MDE - LOCALIZATION / Description Carrid'
+  @UI.dataPoint.title: 'MDE - LOCALIZATION / Title Carrid'
+  Carrid;
+  @UI.dataPoint.description: 'MDE - LOCALIZATION / Description Connid'
+  @UI.dataPoint.title: 'MDE - LOCALIZATION / Title Connid'
+  Connid;
+
+}

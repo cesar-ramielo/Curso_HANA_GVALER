@@ -1,0 +1,15 @@
+@Metadata.layer: #INDUSTRY
+// 1. CUSTOMER
+// 2. PARTNER
+// 3. INDUSTRY
+// 4. LOCALIZATION
+// 5. CORE
+annotate view z28_cds_a23c226_gvaler with
+{
+  @UI.dataPoint.description: 'MDE - INDUSTRY / Description Carrid'
+  @UI.dataPoint.title: 'MDE - INDUSTRY / Title Carrid'
+  Carrid;
+  @UI.dataPoint.description: 'MDE - INDUSTRY / Description Connid'
+  @UI.dataPoint.title: 'MDE - INDUSTRY / Title Connid'
+  Connid;
+}

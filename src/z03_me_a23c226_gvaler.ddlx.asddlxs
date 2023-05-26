@@ -1,0 +1,11 @@
+@Metadata.layer: #CORE
+annotate view z29_cds_a23c226_gvaler with
+  parameters
+    @EndUserText.label: 'Country From'
+    pCountryFrom
+{
+  @EndUserText.label: 'Country From'
+  Countryfr;
+  @EndUserText.label: 'Country To'
+  Countryto;
+}

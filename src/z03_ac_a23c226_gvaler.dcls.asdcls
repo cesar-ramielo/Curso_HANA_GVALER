@@ -1,0 +1,7 @@
+@EndUserText.label: 'Access Control - Inheritance'
+@MappingRole: true
+define role Z03_AC_A23C226_GVALER {
+    grant select on z25_cds_a23c226_gvaler
+          inherit Z02_AC_A23C226_GVALER or carrid = 'LH';
+                        
+}
